@@ -1,4 +1,4 @@
-# Japan Labor Mobility
+# Japan Labor Mobility (Currently Paused)
 
 Do immigrant workers absorb local labor demand shocks the way they do in the United States?
 
